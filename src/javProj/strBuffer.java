@@ -8,6 +8,8 @@ public class strBuffer {
 		StringBuffer str = new StringBuffer("hello ");
 		str.append(false);
 		System.out.println(str);
+		
+		System.out.println("git change");
 	}
 
 }
